@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning ...React
 - 👯 I’m looking to collaborate on ...JS
 - 🤔 I’m looking for help with ...JS React
-- 💬 Ask me about ...Aaything
+- 💬 Ask me about ...Anything
 - 📫 How to reach me: ...[Portfolio] (https://kncofficial.com)
 - 😄 Pronouns: ...He/Him
 - ⚡ Fun fact: ...I am Clever
