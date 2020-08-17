@@ -1,7 +1,7 @@
-### Hi there 👋
+### Hi there It's me Krishna Narayan Chaudhary 👋
 
 
-**kncofficial/kncofficial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- **kncofficial/kncofficial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 Here are some ideas to get you started:
 
@@ -12,5 +12,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...Anything
 - 📫 How to reach me: ...[Portfolio] (https://kncofficial.com)
 - 😄 Pronouns: ...He/Him
-- ⚡ Fun fact: ...I am Clever
+- ⚡ Fun fact: ...I am VBM
 
