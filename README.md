@@ -8,7 +8,7 @@
 - 👯 I’m looking to collaborate on ...JS
 - 🤔 I’m looking for help with ...JS React
 - 💬 Ask me about ...Anything
-- 📫 How to reach me: ...[Portfolio] (https://kncofficial.com)
+- 📫 How to reach me: ...[Portfolio] (https://www.instagram.com/iamkncknc/)
 - 😄 Pronouns: ...He/Him
-- ⚡ Fun fact: ...I am VBM 
+- ⚡ Fun fact: ...I am VBMLVDKNC 
 
