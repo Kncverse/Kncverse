@@ -33,7 +33,7 @@ Github :- (https://github.com/Kncverse)
 Instagram :- (http://instagram.com/Kncverse)
 Linkedin :- (http://linkedin.com/in/kncverse)
 Twitter :- (http://twitter.com/Kncverse)
-
+Youtube :- (https://www.youtube.com/channel/UCBOeKbBN4AIYrnnTnTdUdjA)
 
 - 😄 Pronouns: ...He/Him
 - ⚡ Fun fact: ...I am VBMLVDKNC 
