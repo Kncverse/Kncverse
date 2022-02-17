@@ -1,23 +1,39 @@
-### Hi, I'm Krishna Narayan Chaudhary 👋
 
+$$$$$$$$ Hi, I'm Krishna Narayan Chaudhary 👋
 
-<!-- **kncofficial/kncofficial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.  Here are some ideas to get you started: -->
+- 🔭 I am a UI UX Designer. I do Research, design apps, and websites, and create user-centric,
+     delightful and human experiences for digital products that are enjoyable and easy to use.
 
-- 🔭 I’m currently working on ...UI UX and Frontend Skills
-- 🌱 I’m currently learning ...React
-- 👯 I’m looking to collaborate on ...JS
-- 🤔 I’m looking for help with ...JS React
-- 💬 Ask me about ...Anything
-- 
+- 🌱 Currently working Collaboratively on designing full UX and UI of App product, Onboarding to design system using UX Research, UI Design, and Prototype.
+
+- 📚 Specialties:
+
+Research
+Brainstorm
+Whiteboarding
+Design Thinking
+Design sprints
+MVP
+Rapid Prototyping
+User Research
+Storyboarding
+Wireframing
+Prototyping
+
+- 🤓 Creative Suite [Figma, XD, Photoshop, Illustrator, InDesign , After Effects, Zeplin, Slack]
+
+- ⌨️ Coding: HTML, CSS, Basic of JS and React Js
+
 - 📫 How to reach me: ...[Portfolios] 
-- (https://www.behance.net/Kncverse)
-- (https://dribbble.com/Kncverse)
-- (https://www.facebook.com/Kncverse/)
-- (https://www.linkedin.com/in/kncverse/)
-- (https://github.com/Kncverse)
-- (https://www.instagram.com/Kncverse/)
-- (https://twitter.com/Kncverse)
+
+Behance :- (http://behance.net/Kncverse)
+Dribbble :- (http://dribbble.com/Kncverse)
+Facebook :- ](http://facebook.com/Kncverse)
+Github :- (https://github.com/Kncverse)
+Instagram :- (http://instagram.com/Kncverse)
+Linkedin :- (http://linkedin.com/in/kncverse)
+Twitter :- (http://twitter.com/Kncverse)
+
 
 - 😄 Pronouns: ...He/Him
 - ⚡ Fun fact: ...I am VBMLVDKNC 
-
