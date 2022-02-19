@@ -24,7 +24,7 @@ Prototyping
 
 - ⌨️ Coding: HTML, CSS, Basic of JS and React Js
 
-- 📫 How to reach me: ...[Portfolios] 
+- 📫 How to reach me: ...[Portfolios]=>[https://linktr.ee/Kncverse]
 
 Behance :- (http://behance.net/Kncverse)
 Dribbble :- (http://dribbble.com/Kncverse)
