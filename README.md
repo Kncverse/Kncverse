@@ -19,9 +19,9 @@ Figma, Adobe XD, Photoshop, Indesign, Illustrator, after effects, WordPress, Web
 Programming
 HTML, CSS, Understanding JS and React to work with developers and make Static Webpages.
 
-- 📫 How to reach ME:-...[Portfolios]=>[(https://linktr.ee/Kncverse)]
-- 📨 Mail to EMAIL:-[(Mailto:knc.prodev.official@gmai.com)]
-- 🤓 Look at Resume:-[[Link][https://drive.google.com/file/d/1KXL9WVKYMnBKMAg7fab9zwaf_EFodRJc/view?usp=sharing]]
+- 📫 How to reach ME:-...[Portfolios]=>(https://linktr.ee/Kncverse)
+- 📨 Mail to EMAIL:-(Mailto:knc.prodev.official@gmai.com)
+- 🤓 Look at Resume:-(Link][https://drive.google.com/file/d/1KXL9WVKYMnBKMAg7fab9zwaf_EFodRJc/view?usp=sharing)
 - 😄 Pronouns: ...He/Him
 - ⚡ Fun fact: ...I am VBMLVDRHKKNCNOWVERSEINFINITS
 
