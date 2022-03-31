@@ -23,6 +23,6 @@ HTML, CSS, Understanding JS and React to work with developers and make Static We
 - 📨 Mail to EMAIL:-[(mailto:knc.prodev.official@gmai.com)]
 - 🤓 Look at Resume:-[[Link](https://drive.google.com/file/d/1KXL9WVKYMnBKMAg7fab9zwaf_EFodRJc/view?usp=sharing)]
 - 😄 Pronouns: ...He/Him
-- ⚡ Fun fact: ...I am VBMLVDKNC
+- ⚡ Fun fact: ...I am VBMLVDRHKKNCNOWVERSEINFINITS
 
 👋$$$$$$$$👋
