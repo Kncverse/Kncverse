@@ -1,7 +1,7 @@
 $$$$$$$$ 👋 Hi, I'm Krishna Narayan Chaudhary 👋
 UI/UX Designer
 
-🔭Devotion experience in Product, UI UX, Android, IOS, and Web Applications design with research, user-centric, delightful, and human experiences for digital products that are enjoyable, intuitive, and useful.🌱
+🔭I Have Devotion experience in Product, UI UX, Android, IOS, and Web Applications design with research, user-centric, delightful, and human experiences for enjoyable digital products, intuitive and valuable.🌱
 
 🤓SKILLS
 
